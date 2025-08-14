@@ -2,7 +2,7 @@ package com.warren.leetcode.lc_0283_move_zeroes;
 
 /**
  * @author
- * @desc
+ * @desc 283. 移动零
  * @date 2025/8/14 16:48
  */
 
