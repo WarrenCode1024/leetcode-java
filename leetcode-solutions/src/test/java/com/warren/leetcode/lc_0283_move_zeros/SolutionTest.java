@@ -1,4 +1,4 @@
-package com.warren.leetcode.com.warren.leetcode.lc_0283_move_zeros;
+package com.warren.leetcode.lc_0283_move_zeros;
 
 import com.warren.leetcode.lc_0283_move_zeroes.Solution;
 import org.junit.Test;

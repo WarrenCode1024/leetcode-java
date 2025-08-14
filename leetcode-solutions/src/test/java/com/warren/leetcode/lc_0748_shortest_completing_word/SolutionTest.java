@@ -1,4 +1,4 @@
-package com.warren.leetcode.com.warren.leetcode.lc_0748_shortest_completing_word;
+package com.warren.leetcode.lc_0748_shortest_completing_word;
 
 import com.warren.leetcode.lc_0748_shortest_completing_word.Solution;
 import org.junit.Test;
