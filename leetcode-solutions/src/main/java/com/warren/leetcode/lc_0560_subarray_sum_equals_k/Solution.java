@@ -23,7 +23,6 @@ public class Solution {
             if (map.containsKey(preSum - k)) {
                 count += map.get(preSum - k);
             }
-
             // 更新当前前缀和出现次数
             map.put(preSum, map.getOrDefault(preSum, 0) + 1);
         }
