@@ -26,9 +26,7 @@ public class Solution {
 
             // 更新当前前缀和出现次数
             map.put(preSum, map.getOrDefault(preSum, 0) + 1);
-
         }
         return count;
-
     }
 }
