@@ -37,12 +37,4 @@ public class Solution {
         return res;
     }
 
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        int[] nums = new int[]{1, 3, -1, -3, 5, 3, 6, 7};
-        int[] res = solution.maxSlidingWindow(nums, 3);
-        for (int i = 0; i < res.length; i++) {
-            System.out.println(res[i]);
-        }
-    }
 }
