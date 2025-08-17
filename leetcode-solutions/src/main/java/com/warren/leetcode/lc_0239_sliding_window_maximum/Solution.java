@@ -18,6 +18,7 @@ public class Solution {
         int[] res = new int[n - k + 1];
         Deque<Integer> deque = new LinkedList<>();  // 存下标
 
+
         for (int i = 0; i < n; i++) {
             // 移除不在窗口的元素下标
             while(!deque.isEmpty() && deque.peekFirst() <= i - k) {
