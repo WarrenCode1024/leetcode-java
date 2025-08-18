@@ -37,8 +37,4 @@ public class Solution {
         return res <= n ? res : -1;
     }
 
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        System.out.println(solution.shortestSubarray(new int[]{1, -1, 2, 0, 1, 3, 4}, 4));
-    }
 }
