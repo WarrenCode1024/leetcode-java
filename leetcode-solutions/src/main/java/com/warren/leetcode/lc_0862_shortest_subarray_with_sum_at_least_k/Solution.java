@@ -34,7 +34,6 @@ public class Solution {
 
             deque.offerLast(j);
         }
-
         return res <= n ? res : -1;
     }
 
