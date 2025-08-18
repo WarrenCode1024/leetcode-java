@@ -36,5 +36,4 @@ public class Solution {
         }
         return res <= n ? res : -1;
     }
-
 }
