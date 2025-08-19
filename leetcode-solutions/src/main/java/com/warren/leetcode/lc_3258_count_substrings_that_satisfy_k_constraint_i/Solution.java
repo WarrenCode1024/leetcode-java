@@ -28,10 +28,8 @@ public class Solution {
             }
 
             while (cnt0 > k && cnt1 > k){
-                if(s.charAt(left) == '0')
-                cnt0--;
-                if(s.charAt(left) == '1')
-                cnt1--;
+                if(s.charAt(left) == '0') cnt0--;
+                if(s.charAt(left) == '1') cnt1--;
                 left++;
             }
             res += right - left + 1;
