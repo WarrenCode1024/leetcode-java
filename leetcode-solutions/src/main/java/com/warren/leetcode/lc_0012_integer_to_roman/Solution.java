@@ -2,8 +2,9 @@ package com.warren.leetcode.lc_0012_integer_to_roman;
 
 /**
  * @author
- * @desc LeetCode 12. 整数转罗马数字
- * 链接：https://leetcode.cn/problems/integer-to-roman/
+ * @desc
+ *  LeetCode 12. 整数转罗马数字
+ *  链接：https://leetcode.cn/problems/integer-to-roman/
  * @date 2025/8/20 14:09
  */
 
