@@ -46,7 +46,6 @@ public class Solution {
     public static void main(String[] args) {
         Solution solution = new Solution();
 
-
         // 测试用例
         System.out.println(solution.lengthOfLongestSubstring("abcabcbb")); // 输出: 3 ("abc")
         System.out.println(solution.lengthOfLongestSubstring("bbbbb"));    // 输出: 1 ("b")
