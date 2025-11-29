@@ -3,7 +3,7 @@ package com.leetcode.top100liked.lc_0076_minimum_window_substring;
 import java.util.HashMap;
 import java.util.Map;
 
-class Solution {
+public class Solution {
     /**
      * LeetCode 76. 最小覆盖子串
      *
